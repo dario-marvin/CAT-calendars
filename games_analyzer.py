@@ -22,7 +22,7 @@ for team in set(teams['Squadra']):
     lcl_games = lcl_games.loc[lcl_games.loc[:, 'Squadra ospite'] != 'RIPOSO', :]
 
     calendar_name = 'output/' + team + '.ics'
-    c = Calendar(creator='Dario Marvin')
+    c = Calendar(creator='https://github.com/dario-marvin/CAT-calendars')
 
     for r in lcl_games.iterrows():
         r = r[1]
