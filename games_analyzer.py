@@ -5,7 +5,7 @@ from datetime import timedelta
 games = pd.read_csv('games.csv')
 teams = pd.read_csv('teams.csv')
 
-full_games = games
+full_games = games.loc[(games.loc[:, 'Squadra in casa'] != 'RIPOSO') & (games.loc[:, 'Squadra ospite'] != 'RIPOSO'), :]
 
 for i, game in full_games.iterrows():
     full_games.loc[i, 'Entrata Palestra'] = teams.loc[teams.loc[:, 'Squadra'] == game['Squadra in casa'], 'Orario Entrata'].values[0]
@@ -18,8 +18,9 @@ full_games['Datetime'] = pd.to_datetime(full_games['Datetime'], format='%d.%m.%y
 full_games['Datetime'] = full_games['Datetime'].dt.tz_localize('Europe/Zurich')
 
 for team in set(teams['Squadra']):
-    lcl_games = full_games.loc[(full_games.loc[:, 'Squadra in casa'] == team) | (full_games.loc[:, 'Squadra ospite'] == team), :]
-    lcl_games = lcl_games.loc[lcl_games.loc[:, 'Squadra ospite'] != 'RIPOSO', :]
+
+    lcl_games = full_games.loc[
+                (full_games.loc[:, 'Squadra in casa'] == team) | (full_games.loc[:, 'Squadra ospite'] == team), :]
 
     calendar_name = 'output/' + team + '.ics'
     c = Calendar(creator='https://github.com/dario-marvin/CAT-calendars')

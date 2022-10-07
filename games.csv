@@ -5,11 +5,11 @@ Partita,Squadra in casa,Squadra ospite,Giorno
 1,SFG Lugano,SFG Manno Evolution,10.10.22
 1,SFG Monte Carasso,SFG Stabio,14.10.22
 1,Skål Team,Tartarughe,10.10.22
-1,Volley Capriasca 1,Volley Caslano A,11.10.22
-1,Yellov,RIPOSO,10.10.22
+1,Volley Capriasca 1,RIPOSO, 
+1,Yellov,RIPOSO, 
 2,Tartarughe,SFG Lugano,20.10.22
-2,Volley Caslano A,Foxes,21.10.22
-2,SFG Monte Carasso,RIPOSO,21.10.22
+2,RIPOSO,Foxes, 
+2,SFG Monte Carasso,RIPOSO, 
 2,SFG Manno Evolution,Skål Team,17.10.22
 2,Ciuchini Arbedo Castione,Yellov,19.10.22
 2,Malpa,SAGex,20.10.22
@@ -18,13 +18,13 @@ Partita,Squadra in casa,Squadra ospite,Giorno
 3,#Dragons Lugano,SFG Stabio,27.10.22
 3,SFG Manno Evolution,Tartarughe,24.10.22
 3,Foxes,Ciuchini Arbedo Castione,27.10.22
-3,SAGex,RIPOSO,28.10.22
+3,SAGex,RIPOSO, 
 3,SFG Lugano,SFG Chiasso Dream,26.10.22
-3,SFG Monte Carasso,Volley Caslano A,28.10.22
+3,SFG Monte Carasso,RIPOSO, 
 3,Skål Team,Malpa,24.10.22
 3,Yellov,Volley Capriasca 1,24.10.22
-4,Volley Caslano A,SAGex,18.11.22
-4,SFG Lugano,RIPOSO,16.11.22
+4,RIPOSO,SAGex, 
+4,SFG Lugano,RIPOSO, 
 4,#Dragons Lugano,Skål Team,17.11.22
 4,SFG Manno Evolution,Ciuchini Arbedo Castione,14.11.22
 4,Malpa,SFG Chiasso Dream,17.11.22
@@ -32,23 +32,23 @@ Partita,Squadra in casa,Squadra ospite,Giorno
 4,Volley Capriasca 1,SFG Monte Carasso,15.11.22
 4,Yellov,Foxes,14.11.22
 5,Tartarughe,Yellov,24.11.22
-5,Ciuchini Arbedo Castione,RIPOSO,23.11.22
+5,Ciuchini Arbedo Castione,RIPOSO, 
 5,Foxes,SAGex,24.11.22
 5,Malpa,SFG Monte Carasso,24.11.22
-5,SFG Stabio,Volley Caslano A,22.11.22
+5,SFG Stabio,RIPOSO, 
 5,SFG Chiasso Dream,SFG Manno Evolution,24.11.22
 5,Skål Team,SFG Lugano,21.11.22
 5,Volley Capriasca 1,#Dragons Lugano,22.11.22
-6,Volley Caslano A,#Dragons Lugano,02.12.22
+6,RIPOSO,#Dragons Lugano, 
 6,SFG Manno Evolution,SFG Monte Carasso,28.11.22
 6,Ciuchini Arbedo Castione,Volley Capriasca 1,02.12.22
-6,Malpa,RIPOSO,01.12.22
+6,Malpa,RIPOSO, 
 6,SAGex,Skål Team,02.12.22
 6,SFG Lugano,Foxes,30.11.22
 6,SFG Chiasso Dream,Tartarughe,01.12.22
 6,Yellov,SFG Stabio,28.11.22
 7,Tartarughe,Malpa,15.12.22
-7,Volley Caslano A,RIPOSO,16.12.22
+7,RIPOSO,RIPOSO, 
 7,#Dragons Lugano,Yellov,15.12.22
 7,Foxes,SFG Manno Evolution,15.12.22
 7,Ciuchini Arbedo Castione,SFG Lugano,14.12.22
@@ -56,31 +56,31 @@ Partita,Squadra in casa,Squadra ospite,Giorno
 7,Skål Team,SFG Stabio,12.12.22
 7,Volley Capriasca 1,SFG Chiasso Dream,13.12.22
 8,Tartarughe,Foxes,12.01.23
-8,Volley Caslano A,Yellov,13.01.23
+8,RIPOSO,Yellov, 
 8,SFG Manno Evolution,Malpa,09.01.23
 8,SAGex,Ciuchini Arbedo Castione,13.01.23
 8,SFG Lugano,Volley Capriasca 1,11.01.23
 8,SFG Monte Carasso,#Dragons Lugano,13.01.23
 8,SFG Chiasso Dream,SFG Stabio,12.01.23
-8,Skål Team,RIPOSO,09.01.23
-9,Tartarughe,RIPOSO,19.01.23
+8,Skål Team,RIPOSO, 
+9,Tartarughe,RIPOSO, 
 9,#Dragons Lugano,SAGex,19.01.23
 9,Foxes,SFG Chiasso Dream,19.01.23
-9,Ciuchini Arbedo Castione,Volley Caslano A,18.01.23
+9,Ciuchini Arbedo Castione,RIPOSO, 
 9,Malpa,SFG Lugano,19.01.23
 9,SFG Stabio,SFG Manno Evolution,17.01.23
 9,Volley Capriasca 1,Skål Team,17.01.23
 9,Yellov,SFG Monte Carasso,16.01.23
-10,Tartarughe,Volley Caslano A,02.02.23
-10,SFG Manno Evolution,RIPOSO,30.01.23
+10,Tartarughe,RIPOSO, 
+10,SFG Manno Evolution,RIPOSO, 
 10,Foxes,Volley Capriasca 1,02.02.23
 10,Malpa,SFG Stabio,02.02.23
 10,SAGex,Yellov,03.02.23
 10,SFG Lugano,#Dragons Lugano,01.02.23
 10,SFG Chiasso Dream,Ciuchini Arbedo Castione,02.02.23
 10,Skål Team,SFG Monte Carasso,30.01.23
-11,Volley Caslano A,Skål Team,10.02.23
-11,SFG Chiasso Dream,RIPOSO,09.02.23
+11,RIPOSO,Skål Team, 
+11,SFG Chiasso Dream,RIPOSO, 
 11,#Dragons Lugano,Malpa,09.02.23
 11,Ciuchini Arbedo Castione,Tartarughe,08.02.23
 11,SFG Monte Carasso,Foxes,10.02.23
@@ -89,30 +89,30 @@ Partita,Squadra in casa,Squadra ospite,Giorno
 11,Yellov,SFG Manno Evolution,06.02.23
 12,Tartarughe,#Dragons Lugano,02.03.23
 12,SFG Manno Evolution,Volley Capriasca 1,27.02.23
-12,Foxes,RIPOSO,02.03.23
+12,Foxes,RIPOSO, 
 12,Malpa,Ciuchini Arbedo Castione,02.03.23
 12,SAGex,SFG Stabio,03.03.23
 12,SFG Lugano,SFG Monte Carasso,01.03.23
-12,SFG Chiasso Dream,Volley Caslano A,02.03.23
+12,SFG Chiasso Dream,RIPOSO, 
 12,Skål Team,Yellov,27.02.23
-13,Volley Caslano A,Malpa,10.03.23
+13,RIPOSO,Malpa, 
 13,#Dragons Lugano,SFG Manno Evolution,09.03.23
 13,Ciuchini Arbedo Castione,Skål Team,08.03.23
 13,SAGex,SFG Lugano,10.03.23
 13,SFG Monte Carasso,Tartarughe,10.03.23
 13,SFG Stabio,Foxes,07.03.23
-13,Volley Capriasca 1,RIPOSO,07.03.23
+13,Volley Capriasca 1,RIPOSO, 
 13,Yellov,SFG Chiasso Dream,06.03.23
 14,Tartarughe,SAGex,23.03.23
-14,SFG Stabio,RIPOSO,21.03.23
-14,SFG Manno Evolution,Volley Caslano A,20.03.23
+14,SFG Stabio,RIPOSO, 
+14,SFG Manno Evolution,RIPOSO, 
 14,Foxes,#Dragons Lugano,23.03.23
 14,Ciuchini Arbedo Castione,SFG Monte Carasso,22.03.23
 14,Malpa,Volley Capriasca 1,23.03.23
 14,SFG Lugano,Yellov,22.03.23
 14,SFG Chiasso Dream,Skål Team,23.03.23
-15,Volley Caslano A,SFG Lugano,31.03.23
-15,#Dragons Lugano,RIPOSO,30.03.23
+15,RIPOSO,SFG Lugano, 
+15,#Dragons Lugano,RIPOSO, 
 15,SAGex,SFG Manno Evolution,31.03.23
 15,SFG Monte Carasso,SFG Chiasso Dream,31.03.23
 15,SFG Stabio,Ciuchini Arbedo Castione,28.03.23
